@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Hub de Documentación # Pon el nombre de tu empresa o proyecto
+description: Portal centralizado de consultas y procesos. # Una descripción breve
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: "https://alexredondo.github.io/hub-documentacion/" # Reemplaza el dominio de ejemplo por este
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
