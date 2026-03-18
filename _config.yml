@@ -1,7 +1,8 @@
-title: Hub de Documentación # Pon el nombre de tu empresa o proyecto
+title: 🦒 Academia de las Américas
 description: Portal centralizado de consultas y procesos. # Una descripción breve
 theme: just-the-docs
 color_scheme: dark
+logo: "LOGO.png"
 
 url: "https://alexredondo.github.io/hub-documentacion/" # Reemplaza el dominio de ejemplo por este
 
