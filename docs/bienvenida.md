@@ -4,7 +4,7 @@ title: 👋 Bienvenida a la Academia
 nav_order: 1
 ---
 
-# 🦒 Bienvenido al Hub de la Academia de las Américas -2
+# 🦒 Bienvenido al Hub de la Academia de las Américas -3
 
 Este es un documento de prueba que nació en un lugar secreto y ahora es público.
 
