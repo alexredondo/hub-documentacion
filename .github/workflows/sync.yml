@@ -1,0 +1,36 @@
+name: Sincronizar Documentos al Hub
+
+on:
+  push:
+    branches:
+      - main # Si tu rama principal se llama 'master', cámbialo aquí.
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📥 Descargar repositorio privado
+        uses: actions/checkout@v4
+
+      - name: 🚀 Copiar y Enviar al Hub Público
+        env:
+          DESTINO_REPO: "alexredondo/hub-documentacion"
+          TOKEN: ${{ secrets.SYNC_TOKEN }}
+        run: |
+          # 1. Configurar el bot que hará el trabajo
+          git config --global user.email "bot@academiadelasamericas.edu"
+          git config --global user.name "Bot de la Academia"
+
+          # 2. Clonar el repositorio público temporalmente
+          git clone https://alexredondo:$TOKEN@github.com/$DESTINO_REPO.git repo-publico
+
+          # 3. Preparar y copiar la carpeta de documentos
+          # (Asumimos que vas a guardar tus archivos en una carpeta llamada 'docs' en este repo privado)
+          mkdir -p repo-publico/docs
+          cp -a docs/. repo-publico/docs/ || echo "Nota: Aún no hay carpeta 'docs' en el repo privado"
+
+          # 4. Guardar y subir los cambios a la web pública
+          cd repo-publico
+          git add .
+          git commit -m "🔄 Actualización automática de documentos" || echo "No hay cambios nuevos para sincronizar"
+          git push https://alexredondo:$TOKEN@github.com/$DESTINO_REPO.git HEAD:main
