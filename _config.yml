@@ -1,6 +1,7 @@
 title: Hub de Documentación # Pon el nombre de tu empresa o proyecto
 description: Portal centralizado de consultas y procesos. # Una descripción breve
 theme: just-the-docs
+color_scheme: dark
 
 url: "https://alexredondo.github.io/hub-documentacion/" # Reemplaza el dominio de ejemplo por este
 
