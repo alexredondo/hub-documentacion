@@ -17,6 +17,7 @@ tags:
   - Debido Proceso
   - Comité de Convivencia
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
+version_github: "fd6350e"
 ---
 ### **Artículo 1.1 OBJETIVO DEL MANUAL DE CONVIVENCIA** {#artículo-1.1-objetivo-del-manual-de-convivencia}
 

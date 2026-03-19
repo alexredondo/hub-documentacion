@@ -16,6 +16,7 @@ resumen: "Define la estructura, elección y funciones del Consejo de Padres como
 layout: default
 title: Guía Consejo de Padres
 nav_order: 3
+version_github: "fd6350e"
 ---
 
 # Guía Consejo de Padres
