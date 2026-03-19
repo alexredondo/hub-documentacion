@@ -17,7 +17,7 @@ tags:
   - Debido Proceso
   - Comité de Convivencia
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
-version_github: "a0149c9"
+version_github: "96886b0"
 ---
 ### **Artículo 7.8. LAS REGLAS PARA EL USO DEL MANTENIMIENTO DE BIENES Y EQUIPOS DE LOS DIFERENTES ESCENARIOS PEDAGÓGICOS.** {#artículo-7.8.-las-reglas-para-el-uso-del-mantenimiento-de-bienes-y-equipos-de-los-diferentes-escenarios-pedagógicos.}
 

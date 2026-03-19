@@ -17,6 +17,6 @@ tags:
   - Debido Proceso
   - Comité de Convivencia
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
-version_github: "a0149c9"
+version_github: "96886b0"
 ---
 ### **Artículo 6.4 RUTA DE ATENCIÓN A LOS DIFERENTES TIPOS DE SITUACIONES** {#artículo-6.4-ruta-de-atención-a-los-diferentes-tipos-de-situaciones}
