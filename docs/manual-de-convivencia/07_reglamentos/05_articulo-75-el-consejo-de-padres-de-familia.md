@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Artículo 7.5. EL CONSEJO DE PADRES DE FAMILIA."
+title: "Artículo 7.5. El consejo de padres de familia."
 parent: "Capítulo 7: REGLAMENTOS"
 grand_parent: "Manual de Convivencia"
 nav_order: 5
@@ -19,7 +19,7 @@ tags:
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
 version_github: "96886b0"
 ---
-### **Artículo 7.5. EL CONSEJO DE PADRES DE FAMILIA.**  {#artículo-7.5.-el-consejo-de-padres-de-familia.}
+### **artículo 7.5. el consejo de padres de familia.** {#artículo-7.5.-el-consejo-de-padres-de-familia.}
 
 El Consejo de Padres de Familia es un órgano de participación de los padres de familia del establecimiento educativo destinado a asegurar su continua participación en el proceso educativo y a elevar los resultados de calidad del servicio. Estará integrado por dos (2) padres de familia por cada uno de los grados que ofrece el centro educativo. 
 

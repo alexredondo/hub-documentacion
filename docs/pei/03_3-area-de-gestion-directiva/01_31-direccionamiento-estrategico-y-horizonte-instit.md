@@ -127,7 +127,7 @@ Los valores institucionales serán tenidos en cuenta en cada una de las áreas y
       Otro principio pedagógico fundamental es la educación personalizada, que busca conocer y atender las necesidades individuales de cada estudiante. Como menciona Jean-Jacques Rousseau, "el objetivo de la educación es formar seres humanos libres y autónomos, capaces de tomar sus propias decisiones" (Rousseau, 1821).  
       
 
-### 
+###
 
 ### 3.1.2 Políticas y metas institucionales {#3.1.2-políticas-y-metas-institucionales}
 
@@ -173,7 +173,7 @@ Este sistema de estímulos y reconocimientos es parte de la cultura, las políti
    2. Implementación del sistema de estímulos y reconocimientos  
    3. Evaluación y ajuste del sistema de estímulos y reconocimientos.
 
-### 
+###
 
 ### 3.1.5 Conceptos básicos que direccionan la vida institucional {#3.1.5-conceptos-básicos-que-direccionan-la-vida-institucional}
 
@@ -246,7 +246,7 @@ Nuestra política de inclusión de personas con capacidades disímiles es la sig
 3. La comunidad educativa conoce y comparte la estrategia de promoción de la inclusión de personas con capacidades disímiles. Esto se evidencia en la identidad institucional y la unidad de propósitos entre sus miembros.  
 4. La institución evalúa periódicamente la estrategia de inclusión de personas con capacidades disímiles y realiza acciones para lograr dicha inclusión.
 
-### 
+###
 
 ### 3.1.7 Política de inclusión de personas de diferentes grupos poblacionales o diversidad cultural {#3.1.7-política-de-inclusión-de-personas-de-diferentes-grupos-poblacionales-o-diversidad-cultural}
 

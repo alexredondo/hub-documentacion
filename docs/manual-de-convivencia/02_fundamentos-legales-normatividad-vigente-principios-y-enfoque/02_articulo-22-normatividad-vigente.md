@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Artículo 2.2. NORMATIVIDAD VIGENTE"
+title: "Artículo 2.2. Normatividad vigente"
 parent: "Capítulo 2: FUNDAMENTOS LEGALES, NORMATIVIDAD VIGENTE, PRINCIPIOS Y ENFOQUE"
 grand_parent: "Manual de Convivencia"
 nav_order: 2
@@ -19,7 +19,7 @@ tags:
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
 version_github: "96886b0"
 ---
-### **Artículo 2.2. NORMATIVIDAD VIGENTE** {#artículo-2.2.-normatividad-vigente}
+### **artículo 2.2. normatividad vigente** {#artículo-2.2.-normatividad-vigente}
 
 1. El artículo 5 de la Ley 115 de 1994 establece que la educación es un proceso de formación permanente, personal, cultural y social que tiene como fin el pleno desarrollo de las potencialidades del ser humano y su preparación para el ejercicio de la ciudadanía y la vida en sociedad. La educación debe ser un proceso participativo y activo que promueva el desarrollo integral de los estudiantes, fomentando el pensamiento crítico, la creatividad, la solidaridad y el compromiso social.  
 2. El artículo 87 de la Ley 115 establece  que los establecimientos educativos tendrán un reglamento o manual de convivencia, en el cual se definan los derechos y obligaciones de los estudiantes. Los padres o tutores y los educandos, al firmar la matrícula correspondiente en representación de sus hijos, estarán aceptando el mismo.  

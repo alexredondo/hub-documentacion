@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Artículo 9\. MECANISMOS RETENCIÓN Y PERMANENCIA"
+title: "Artículo 9\. mecanismos retención y permanencia"
 parent: "Capítulo 8: PROMOCIÓN, PREVENCIÓN, ATENCIÓN Y SEGUIMIENTO DE LA RUTA DE ATENCIÓN ESCOLAR PARA LA CONVIVENCIA ESCOLAR"
 grand_parent: "Manual de Convivencia"
 nav_order: 5
@@ -19,7 +19,7 @@ tags:
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
 version_github: "96886b0"
 ---
-### **Artículo 9\. MECANISMOS RETENCIÓN Y PERMANENCIA**  {#artículo-9.-mecanismos-retención-y-permanencia}
+### **artículo 9\. mecanismos retención y permanencia** {#artículo-9.-mecanismos-retención-y-permanencia}
 
 Procedimiento de Intervención para Estudiantes en Riesgo de Deserción Escolar
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Artículo 7.17. PROTOCOLO DE COMUNICACIONES INSTITUCIONALES"
+title: "Artículo 7.17. Protocolo de comunicaciones institucionales"
 parent: "Capítulo 7: REGLAMENTOS"
 grand_parent: "Manual de Convivencia"
 nav_order: 24
@@ -19,7 +19,7 @@ tags:
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
 version_github: "96886b0"
 ---
-### **Artículo 7.17. PROTOCOLO DE COMUNICACIONES INSTITUCIONALES** {#artículo-7.17.-protocolo-de-comunicaciones-institucionales}
+### **artículo 7.17. protocolo de comunicaciones institucionales** {#artículo-7.17.-protocolo-de-comunicaciones-institucionales}
 
 **Objetivo:** Establecer lineamientos claros para el intercambio de información, garantizando que sea oportuna, respetuosa, oficial y centrada exclusivamente en el bienestar y desarrollo integral del estudiante.
 

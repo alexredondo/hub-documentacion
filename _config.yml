@@ -1,9 +1,21 @@
-title: 🦒 Academia de las Américas
-description: Portal centralizado de consultas y procesos. # Una descripción breve
-theme: just-the-docs
-logo: "LOGO.png"
+title: Academia de las Américas
+description: "Centro Educativo Academia de las Américas - Hub de Documentación"
+remote_theme: just-the-docs/just-the-docs
 
-url: "https://alexredondo.github.io/hub-documentacion/" # Reemplaza el dominio de ejemplo por este
+# Color scheme y estilo
+color_scheme: "light" # "dark" existe también si lo deseas
 
+# Navigation
+search_enabled: true
+search_placeholder: "Buscar en los archivos..."
+
+# Ayuda arriba a la derecha (Eliminamos Template Repository)
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "Manual de Convivencia": "/manual-de-convivencia/"
+  "P.E.I.": "/pei/"
+  "Telegram": "https://t.me/alexredondo"
+
+# Footer personalizado (Eliminamos los créditos por defecto)
+footer_content: '© 2024 [Alex Redondo](https://t.me/alexredondo) - Centro Educativo Academia de las Américas'
+last_edit_timestamp: true
+last_edit_label: "Última edición técnica"

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Capítulo 8: PROMOCIÓN, PREVENCIÓN, ATENCIÓN Y SEGUIMIENTO DE LA RUTA DE ATENCIÓN ESCOLAR PARA LA CONVIVENCIA ESCOLAR"
+title: "Capítulo 8: Promoción, prevención, atención y seguimiento de la ruta de atención escolar para la convivencia escolar"
 parent: Manual de Convivencia # parent: Toma el título de la carpeta manual-de-convivencia
 nav_order: 9
 titulo: "Manual de Convivencia 2024 - Capítulo 8: PROMOCIÓN, PREVENCIÓN, ATENCIÓN Y SEGUIMIENTO DE LA RUTA DE ATENCIÓN ESCOLAR PARA LA CONVIVENCIA ESCOLAR"
@@ -19,6 +19,6 @@ resumen: "Reglamento que define las normas de comportamiento, derechos y deberes
 has_children: true
 version_github: "96886b0"
 ---
-# CAPÍTULO 8
+# Capítulo 8
 
-# PROMOCIÓN, PREVENCIÓN, ATENCIÓN Y SEGUIMIENTO DE LA RUTA DE ATENCIÓN ESCOLAR PARA LA CONVIVENCIA ESCOLAR {#promoción,-prevención,-atención-y-seguimiento-de-la-ruta-de-atención-escolar-para-la-convivencia-escolar}
+# Promoción, prevención, atención y seguimiento de la ruta de atención escolar para la convivencia escolar {#promoción,-prevención,-atención-y-seguimiento-de-la-ruta-de-atención-escolar-para-la-convivencia-escolar}

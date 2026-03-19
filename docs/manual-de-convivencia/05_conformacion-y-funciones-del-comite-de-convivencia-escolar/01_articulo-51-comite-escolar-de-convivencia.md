@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Artículo 5.1. COMITÉ ESCOLAR DE CONVIVENCIA."
+title: "Artículo 5.1. Comité escolar de convivencia."
 parent: "Capítulo 5: CONFORMACIÓN Y FUNCIONES DEL COMITÉ DE CONVIVENCIA ESCOLAR"
 grand_parent: "Manual de Convivencia"
 nav_order: 1
@@ -19,7 +19,7 @@ tags:
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
 version_github: "96886b0"
 ---
-### **Artículo 5.1. COMITÉ ESCOLAR DE CONVIVENCIA.**  {#artículo-5.1.-comité-escolar-de-convivencia.}
+### **artículo 5.1. comité escolar de convivencia.** {#artículo-5.1.-comité-escolar-de-convivencia.}
 
 #### **Artículo 5.1.1. Conformación del Comité Escolar de Convivencia** {#artículo-5.1.1.-conformación-del-comité-escolar-de-convivencia}
 

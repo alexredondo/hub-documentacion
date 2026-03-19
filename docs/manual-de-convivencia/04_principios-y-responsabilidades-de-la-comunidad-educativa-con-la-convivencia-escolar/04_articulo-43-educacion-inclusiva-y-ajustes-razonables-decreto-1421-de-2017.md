@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Artículo 4.3. EDUCACIÓN INCLUSIVA Y AJUSTES RAZONABLES (Decreto 1421 de 2017\)"
+title: "Artículo 4.3. Educación inclusiva y ajustes razonables (decreto 1421 de 2017\)"
 parent: "Capítulo 4: PRINCIPIOS Y RESPONSABILIDADES DE LA COMUNIDAD EDUCATIVA CON LA CONVIVENCIA ESCOLAR"
 grand_parent: "Manual de Convivencia"
 nav_order: 4
@@ -19,7 +19,7 @@ tags:
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
 version_github: "96886b0"
 ---
-### **Artículo 4.3. EDUCACIÓN INCLUSIVA Y AJUSTES RAZONABLES (Decreto 1421 de 2017\)** {#artículo-4.3.-educación-inclusiva-y-ajustes-razonables-(decreto-1421-de-2017)}
+### **artículo 4.3. educación inclusiva y ajustes razonables (decreto 1421 de 2017\)** {#artículo-4.3.-educación-inclusiva-y-ajustes-razonables-(decreto-1421-de-2017)}
 
 La Institución, en cumplimiento del Decreto 1421 de 2017, garantiza el derecho a una educación inclusiva para todos los estudiantes que presenten barreras para el aprendizaje, discapacidad o talentos excepcionales.
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Capítulo 4: PRINCIPIOS Y RESPONSABILIDADES DE LA COMUNIDAD EDUCATIVA CON LA CONVIVENCIA ESCOLAR"
+title: "Capítulo 4: Principios y responsabilidades de la comunidad educativa con la convivencia escolar"
 parent: Manual de Convivencia # parent: Toma el título de la carpeta manual-de-convivencia
 nav_order: 5
 titulo: "Manual de Convivencia 2024 - Capítulo 4: PRINCIPIOS Y RESPONSABILIDADES DE LA COMUNIDAD EDUCATIVA CON LA CONVIVENCIA ESCOLAR"
@@ -19,6 +19,6 @@ resumen: "Reglamento que define las normas de comportamiento, derechos y deberes
 has_children: true
 version_github: "96886b0"
 ---
-# CAPÍTULO 4 
+# Capítulo 4
 
-# PRINCIPIOS Y RESPONSABILIDADES DE LA COMUNIDAD EDUCATIVA CON LA CONVIVENCIA ESCOLAR {#principios-y-responsabilidades-de-la-comunidad-educativa-con-la-convivencia-escolar}
+# Principios y responsabilidades de la comunidad educativa con la convivencia escolar {#principios-y-responsabilidades-de-la-comunidad-educativa-con-la-convivencia-escolar}

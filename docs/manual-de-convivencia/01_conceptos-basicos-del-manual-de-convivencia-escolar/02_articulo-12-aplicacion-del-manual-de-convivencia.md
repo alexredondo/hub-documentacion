@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Artículo 1.2. APLICACIÓN DEL MANUAL DE CONVIVENCIA"
+title: "Artículo 1.2. Aplicación del manual de convivencia"
 parent: "Capítulo 1: CONCEPTOS BÁSICOS DEL MANUAL DE CONVIVENCIA ESCOLAR"
 grand_parent: "Manual de Convivencia"
 nav_order: 2
@@ -19,7 +19,7 @@ tags:
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
 version_github: "96886b0"
 ---
-### **Artículo 1.2. APLICACIÓN DEL MANUAL DE CONVIVENCIA** {#artículo-1.2.-aplicación-del-manual-de-convivencia}
+### **artículo 1.2. aplicación del manual de convivencia** {#artículo-1.2.-aplicación-del-manual-de-convivencia}
 
 El presente manual de convivencia se aplicará sin distingo alguno de los integrantes de la comunidad educativa.
 

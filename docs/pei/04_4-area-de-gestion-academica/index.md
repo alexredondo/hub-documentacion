@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "4. ÁREA DE GESTIÓN ACADÉMICA"
+title: "4. Área de gestión académica"
 parent: "Proyecto Educativo Institucional (PEI) 2026"
 has_children: true
 nav_order: 4
@@ -19,4 +19,4 @@ tags:
 resumen: "Documento maestro que establece la identidad, objetivos y estrategias de gestión institucional para el periodo 2026."
 version_github: "96886b0"
 ---
-# 4\. ÁREA DE GESTIÓN ACADÉMICA {#4.-área-de-gestión-académica}
+# 4\. área de gestión académica {#4.-área-de-gestión-académica}

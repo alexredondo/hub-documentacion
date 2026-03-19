@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "1. DATOS DE IDENTIFICACIÓN"
+title: "1. Datos de identificación"
 parent: "Proyecto Educativo Institucional (PEI) 2026"
 nav_order: 1
 titulo: "Proyecto Educativo Institucional (PEI) 2026"
@@ -18,7 +18,7 @@ tags:
 resumen: "Documento maestro que establece la identidad, objetivos y estrategias de gestión institucional para el periodo 2026."
 version_github: "96886b0"
 ---
-# 1\. DATOS DE IDENTIFICACIÓN {#1.-datos-de-identificación}
+# 1\. datos de identificación {#1.-datos-de-identificación}
 
 **1.1 Nombre del establecimiento educativo:**   
 Centro Educativo Academia de las Américas

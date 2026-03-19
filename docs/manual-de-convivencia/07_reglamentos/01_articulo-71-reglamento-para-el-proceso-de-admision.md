@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Artículo 7.1. REGLAMENTO PARA EL PROCESO DE ADMISIÓN Y MATRÍCULA"
+title: "Artículo 7.1. Reglamento para el proceso de admisión y matrícula"
 parent: "Capítulo 7: REGLAMENTOS"
 grand_parent: "Manual de Convivencia"
 nav_order: 1
@@ -19,7 +19,7 @@ tags:
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
 version_github: "96886b0"
 ---
-### **Artículo 7.1. REGLAMENTO PARA EL PROCESO DE ADMISIÓN Y MATRÍCULA**  {#artículo-7.1.-reglamento-para-el-proceso-de-admisión-y-matrícula}
+### **artículo 7.1. reglamento para el proceso de admisión y matrícula** {#artículo-7.1.-reglamento-para-el-proceso-de-admisión-y-matrícula}
 
 #### **Artículo 7.1.1 La matrícula** {#artículo-7.1.1-la-matrícula}
 
@@ -29,7 +29,7 @@ Es un contrato bilateral que se rige por las normas del Código Civil y del Cód
 
 El texto del contrato de matrícula es el siguiente: 
 
-***CONTRATO DE PRESTACIÓN DE SERVICIOS EDUCATIVOS***   
+***contrato de prestación de servicios educativos***
 *Contrato No. 9999999999-22*
 
 *Entre los suscritos, ALEXANDER FABIÁN REDONDO FLÓREZ, Mayor de edad, identificado con la cédula de ciudadanía número 92.537.610 de Sincelejo, actuando en su calidad de representante legal del CENTRO EDUCATIVO ACADEMIA DE LAS AMÉRICAS, establecimiento educativo de carácter privado legalmente constituido y aprobado según resolución 0756 del 5 de marzo de 2013, ubicado en la Carrera 28 No. 10-45 de Sincelejo y que para efecto del presente contrato se denominará EL COLEGIO, por una parte, y NOMBRE DEL PADRE y, NOMBRE DE LA MADRE. Mayor(es)  de edad, domiciliado(os) en Sincelejo, identificado con el(los) número(s) de cédula de ciudadanía que aparece al pie de su(s) ﬁrma (as), en ejercicio de la patria potestad y actuando en calidad de acudiente(s) del (la) Estudiante: NOMBRE DEL (LA) ESTUDIANTE del Grado: GRADO, quien es él (la) estudiante beneficiario(a), han decidido celebrar el presente contrato de prestación de servicios educativos que se regirá por las siguientes cláusulas:*

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "2.1 JUSTIFICACIÓN DEL PEI"
+title: "2.1 Justificación del PEI"
 parent: "2. GENERALIDADES"
 grand_parent: "Proyecto Educativo Institucional (PEI) 2026"
 nav_order: 2
@@ -19,7 +19,7 @@ tags:
 resumen: "Documento maestro que establece la identidad, objetivos y estrategias de gestión institucional para el periodo 2026."
 version_github: "96886b0"
 ---
-## 2.1 JUSTIFICACIÓN DEL PEI {#2.1-justificación-del-pei}
+## 2.1 Justificación del PEI {#2.1-justificación-del-pei}
 
 El Centro Educativo Academia Las Américas diseña y construye el actual Proyecto Educativo Institucional con la participación de todas las audiencias que conforman la comunidad educativa. Durante el proceso de diseño, se analizan aspectos vitales como la conveniencia, la relevancia social, las implicaciones prácticas, el valor teórico y la utilidad metodológica. A continuación, se abordan los aspectos vitales mencionados:
 

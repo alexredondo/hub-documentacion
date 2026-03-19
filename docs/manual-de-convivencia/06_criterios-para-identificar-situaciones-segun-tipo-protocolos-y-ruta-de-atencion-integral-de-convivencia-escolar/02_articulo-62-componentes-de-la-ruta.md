@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Artículo 6.2. COMPONENTES DE LA RUTA"
+title: "Artículo 6.2. Componentes de la ruta"
 parent: "Capítulo 6: CRITERIOS PARA IDENTIFICAR SITUACIONES SEGÚN TIPO, PROTOCOLOS Y RUTA DE ATENCIÓN INTEGRAL DE CONVIVENCIA ESCOLAR"
 grand_parent: "Manual de Convivencia"
 nav_order: 2
@@ -19,7 +19,7 @@ tags:
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
 version_github: "96886b0"
 ---
-### **Artículo 6.2. COMPONENTES DE LA RUTA** {#artículo-6.2.-componentes-de-la-ruta}
+### **artículo 6.2. componentes de la ruta** {#artículo-6.2.-componentes-de-la-ruta}
 
 La ruta se divide en cuatro componentes: promoción, prevención, atención y seguimiento. Cada uno de estos tiene una serie de objetivos orientados a fortalecer los procesos de formación para el ejercicio de la ciudadanía, los cuales se cumplirán diseñando, desarrollando y evaluando el conjunto de acciones que fueron planteadas en el Decreto 1965 de 2013\. 
 

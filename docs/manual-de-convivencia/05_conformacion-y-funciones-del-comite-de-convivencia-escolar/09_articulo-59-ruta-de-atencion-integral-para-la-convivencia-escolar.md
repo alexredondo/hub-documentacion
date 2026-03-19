@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Artículo 5.9. RUTA DE ATENCIÓN INTEGRAL PARA LA CONVIVENCIA ESCOLAR"
+title: "Artículo 5.9. Ruta de atención integral para la convivencia escolar"
 parent: "Capítulo 5: CONFORMACIÓN Y FUNCIONES DEL COMITÉ DE CONVIVENCIA ESCOLAR"
 grand_parent: "Manual de Convivencia"
 nav_order: 9
@@ -19,6 +19,6 @@ tags:
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
 version_github: "96886b0"
 ---
-### **Artículo 5.9. RUTA DE ATENCIÓN INTEGRAL PARA LA CONVIVENCIA ESCOLAR** {#artículo-5.9.-ruta-de-atención-integral-para-la-convivencia-escolar}
+### **artículo 5.9. ruta de atención integral para la convivencia escolar** {#artículo-5.9.-ruta-de-atención-integral-para-la-convivencia-escolar}
 
 La Ruta de Atención Integral para la Convivencia Escolar es un protocolo que busca garantizar la protección de los derechos humanos, sexuales y reproductivos de los estudiantes. Este espacio de conciliación se activa cuando hay situaciones específicas de conflictos, de acoso escolar, las conductas de alto riesgo escolar o de vulneración de derechos sexuales y reproductivos que no pueden ser resueltas por el Comité Escolar de Convivencia.

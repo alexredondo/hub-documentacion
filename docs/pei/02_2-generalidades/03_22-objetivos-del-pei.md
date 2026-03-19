@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "2.2 OBJETIVOS DEL PEI"
+title: "2.2 Objetivos del PEI"
 parent: "2. GENERALIDADES"
 grand_parent: "Proyecto Educativo Institucional (PEI) 2026"
 nav_order: 3
@@ -19,7 +19,7 @@ tags:
 resumen: "Documento maestro que establece la identidad, objetivos y estrategias de gestión institucional para el periodo 2026."
 version_github: "96886b0"
 ---
-## 2.2 OBJETIVOS DEL PEI {#2.2-objetivos-del-pei}
+## 2.2 Objetivos del PEI {#2.2-objetivos-del-pei}
 
 ### 2.2.1 Objetivo General {#2.2.1-objetivo-general}
 

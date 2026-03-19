@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Artículo 7.9. REGLAMENTO DE ASISTENCIA Y PUNTUALIDAD"
+title: "Artículo 7.9. Reglamento de asistencia y puntualidad"
 parent: "Capítulo 7: REGLAMENTOS"
 grand_parent: "Manual de Convivencia"
 nav_order: 11
@@ -19,7 +19,7 @@ tags:
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
 version_github: "96886b0"
 ---
-### **Artículo 7.9. REGLAMENTO DE ASISTENCIA Y PUNTUALIDAD** {#artículo-7.9.-reglamento-de-asistencia-y-puntualidad}
+### **artículo 7.9. reglamento de asistencia y puntualidad** {#artículo-7.9.-reglamento-de-asistencia-y-puntualidad}
 
 Cada estudiante debe tener en cuenta los siguientes aspectos que regulan la asistencia a clases: 
 

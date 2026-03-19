@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Artículo 7.8.9. PROTOCOLO DE CONSERVACIÓN, ORDEN Y ASEO DEL AULA"
+title: "Artículo 7.8.9. Protocolo de conservación, orden y aseo del aula"
 parent: "Capítulo 7: REGLAMENTOS"
 grand_parent: "Manual de Convivencia"
 nav_order: 10
@@ -19,7 +19,7 @@ tags:
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
 version_github: "96886b0"
 ---
-### **Artículo 7.8.9. PROTOCOLO DE CONSERVACIÓN, ORDEN Y ASEO DEL AULA** {#artículo-7.8.9.-protocolo-de-conservación,-orden-y-aseo-del-aula}
+### **artículo 7.8.9. protocolo de conservación, orden y aseo del aula** {#artículo-7.8.9.-protocolo-de-conservación,-orden-y-aseo-del-aula}
 
 **Objetivo:** Mantener un ambiente de aprendizaje estético y funcional, fomentando el sentido de pertenencia y el cuidado de los bienes institucionales.
 

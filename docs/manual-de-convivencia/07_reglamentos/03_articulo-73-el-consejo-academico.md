@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Artículo 7.3. EL CONSEJO ACADÉMICO"
+title: "Artículo 7.3. El consejo académico"
 parent: "Capítulo 7: REGLAMENTOS"
 grand_parent: "Manual de Convivencia"
 nav_order: 3
@@ -19,7 +19,7 @@ tags:
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
 version_github: "96886b0"
 ---
-### **Artículo 7.3. EL CONSEJO ACADÉMICO** {#artículo-7.3.-el-consejo-académico}
+### **artículo 7.3. el consejo académico** {#artículo-7.3.-el-consejo-académico}
 
 El Consejo Académico está integrado por el director, quien lo preside, los directivos docentes y un docente por cada área definida en el plan de estudios. Cumplirá las siguientes funciones: 
 

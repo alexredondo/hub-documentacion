@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Capítulo 2: FUNDAMENTOS LEGALES, NORMATIVIDAD VIGENTE, PRINCIPIOS Y ENFOQUE"
+title: "Capítulo 2: Fundamentos legales, normatividad vigente, principios y enfoque"
 parent: Manual de Convivencia # parent: Toma el título de la carpeta manual-de-convivencia
 nav_order: 3
 titulo: "Manual de Convivencia 2024 - Capítulo 2: FUNDAMENTOS LEGALES, NORMATIVIDAD VIGENTE, PRINCIPIOS Y ENFOQUE"
@@ -19,6 +19,6 @@ resumen: "Reglamento que define las normas de comportamiento, derechos y deberes
 has_children: true
 version_github: "96886b0"
 ---
-# CAPÍTULO 2
+# Capítulo 2
 
-# FUNDAMENTOS LEGALES, NORMATIVIDAD VIGENTE, PRINCIPIOS Y ENFOQUE {#fundamentos-legales,-normatividad-vigente,-principios-y-enfoque}
+# Fundamentos legales, normatividad vigente, principios y enfoque {#fundamentos-legales,-normatividad-vigente,-principios-y-enfoque}

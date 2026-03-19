@@ -69,31 +69,31 @@ Esta práctica se debe hacer de manera continua establecida como política en el
 
 Este aspecto está plenamente desarrollado en el sistema de evaluación adjunto.
 
-### 
+###
 
 ### 4.4.6 Apoyo pedagógico adicionales para estudiantes con necesidades educativas especiales (política de inclusión). {#4.4.6-apoyo-pedagógico-adicionales-para-estudiantes-con-necesidades-educativas-especiales-(política-de-inclusión).}
 
 Para el Centro Educativo Academia Las Américas, apoya pedagógicamente a los estudiantes con barreras para el aprendizaje diseñando, elaborando y evaluando planes de ajustes razonables y referencia su accionar desde el siguiente marco normativo:
 
-**LEY 762 2002**  
+**Ley 762 2002**
 En la cual se aprueba la "Convención Interamericana para la Eliminación de todas las Formas de Discriminación contra las Personas con Discapacidad"
 
-**LA LEY 1145 2007**  
+**La ley 1145 2007**
 Por medio de la cual se organiza el Sistema Nacional de Discapacidad, la Convención sobre los Derechos de las Personas con Discapacidad de Naciones Unidas, ratificada por Colombia  
 mediante la Ley 1346 de 2009\.
 
-**LEY 1346 2009**  
+**Ley 1346 2009**
 por medio de la cual se aprueba la “Convención sobre los Derechos de las personas con Discapacidad”, adoptada por la Asamblea General de la Naciones Unidas el 13 de diciembre de  
 2006\.
 
-**LEY ESTATUTARIA 1618 2013**  
+**Ley estatutaria 1618 2013**
 por medio de la cual se establecen las disposiciones para garantizar el pleno ejercicio de los derechos de las personas con discapacidad, entre otras disposiciones legales, conforman el  
 marco normativo en el cual se sustenta el manejo de la discapacidad en el país.
 
-**LEY 1752 2015**  
+**Ley 1752 2015**
 Desde su objeto contempla la discapacidad al señalar que busca “sancionar penalmente actos de discriminación por razones de raza, etnia, religión, nacionalidad, ideología política o filosófica, sexo u orientación sexual, discapacidad y demás razones de discriminación”.
 
-**DECRETO 1421 2017**  
+**Decreto 1421 2017**
 Por el cual se reglamenta en el marco de la educación inclusiva la atención educativa a la población con discapacidad.
 
 **Ruta para apoyar pedagógicamente a estudiantes con barreras para el aprendizaje.**  

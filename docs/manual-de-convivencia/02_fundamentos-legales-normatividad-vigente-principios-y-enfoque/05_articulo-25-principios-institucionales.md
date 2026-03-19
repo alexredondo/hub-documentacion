@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Artículo 2.5 PRINCIPIOS INSTITUCIONALES."
+title: "Artículo 2.5 Principios institucionales."
 parent: "Capítulo 2: FUNDAMENTOS LEGALES, NORMATIVIDAD VIGENTE, PRINCIPIOS Y ENFOQUE"
 grand_parent: "Manual de Convivencia"
 nav_order: 5
@@ -19,7 +19,7 @@ tags:
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
 version_github: "96886b0"
 ---
-### **Artículo 2.5 PRINCIPIOS INSTITUCIONALES.**  {#artículo-2.5-principios-institucionales.}
+### **artículo 2.5 principios institucionales.** {#artículo-2.5-principios-institucionales.}
 
 El Centro Educativo fundamenta este Manual de Convivencia, el Proyecto Educativo Institucional y todos los procesos y actividades para cumplir con su misión en los  siguientes principios: 
 

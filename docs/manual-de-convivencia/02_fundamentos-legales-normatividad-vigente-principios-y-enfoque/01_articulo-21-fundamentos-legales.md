@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Artículo 2.1. FUNDAMENTOS LEGALES"
+title: "Artículo 2.1. Fundamentos legales"
 parent: "Capítulo 2: FUNDAMENTOS LEGALES, NORMATIVIDAD VIGENTE, PRINCIPIOS Y ENFOQUE"
 grand_parent: "Manual de Convivencia"
 nav_order: 1
@@ -19,7 +19,7 @@ tags:
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
 version_github: "96886b0"
 ---
-### **Artículo 2.1. FUNDAMENTOS LEGALES** {#artículo-2.1.-fundamentos-legales}
+### **artículo 2.1. fundamentos legales** {#artículo-2.1.-fundamentos-legales}
 
 El Manual de Convivencia en Colombia se encuentra regulado por varias normas legales, entre las cuales se destacan:
 

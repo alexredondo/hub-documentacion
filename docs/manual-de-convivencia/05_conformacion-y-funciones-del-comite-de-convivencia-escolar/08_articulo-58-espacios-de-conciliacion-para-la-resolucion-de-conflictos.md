@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Artículo 5.8. ESPACIOS DE CONCILIACIÓN PARA LA RESOLUCIÓN DE CONFLICTOS"
+title: "Artículo 5.8. Espacios de conciliación para la resolución de conflictos"
 parent: "Capítulo 5: CONFORMACIÓN Y FUNCIONES DEL COMITÉ DE CONVIVENCIA ESCOLAR"
 grand_parent: "Manual de Convivencia"
 nav_order: 8
@@ -19,7 +19,7 @@ tags:
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
 version_github: "96886b0"
 ---
-### **Artículo 5.8. ESPACIOS DE CONCILIACIÓN PARA LA RESOLUCIÓN DE CONFLICTOS** {#artículo-5.8.-espacios-de-conciliación-para-la-resolución-de-conflictos}
+### **artículo 5.8. espacios de conciliación para la resolución de conflictos** {#artículo-5.8.-espacios-de-conciliación-para-la-resolución-de-conflictos}
 
 En el centro educativo existen varios espacios de conciliación para la resolución de situaciones conflictivas que afecten la convivencia escolar. A continuación, se mencionan cuatro de ellos:
 

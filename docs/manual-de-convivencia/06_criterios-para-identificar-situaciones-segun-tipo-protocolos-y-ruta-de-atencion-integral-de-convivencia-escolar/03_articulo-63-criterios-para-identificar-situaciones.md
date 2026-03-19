@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Artículo 6.3. CRITERIOS PARA IDENTIFICAR SITUACIONES SEGÚN EL TIPO Y PROTOCOLOS DE ATENCIÓN"
+title: "Artículo 6.3. Criterios para identificar situaciones según el tipo y protocolos de atención"
 parent: "Capítulo 6: CRITERIOS PARA IDENTIFICAR SITUACIONES SEGÚN TIPO, PROTOCOLOS Y RUTA DE ATENCIÓN INTEGRAL DE CONVIVENCIA ESCOLAR"
 grand_parent: "Manual de Convivencia"
 nav_order: 3
@@ -19,9 +19,9 @@ tags:
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
 version_github: "96886b0"
 ---
-### **Artículo 6.3. CRITERIOS PARA IDENTIFICAR SITUACIONES SEGÚN EL TIPO Y PROTOCOLOS DE ATENCIÓN** {#artículo-6.3.-criterios-para-identificar-situaciones-según-el-tipo-y-protocolos-de-atención}
+### **artículo 6.3. criterios para identificar situaciones según el tipo y protocolos de atención** {#artículo-6.3.-criterios-para-identificar-situaciones-según-el-tipo-y-protocolos-de-atención}
 
-#### **Artículo 6.3.1 SITUACIONES TIPO 1** {#artículo-6.3.1-situaciones-tipo-1}
+#### **artículo 6.3.1 situaciones tipo 1** {#artículo-6.3.1-situaciones-tipo-1}
 
 Conflictos manejados inadecuadamente y situaciones esporádicas que inciden negativamente en el clima escolar. No generan daños al cuerpo o a la salud física o mental.
 
@@ -33,7 +33,7 @@ Conflictos manejados inadecuadamente y situaciones esporádicas que inciden nega
 
 3\. Realizar seguimiento del caso y de los compromisos a fin de verificar si la solución fue efectiva o si se requiere acudir a los protocolos consagrados en los artículos 43 y 44 del presente Decreto.
 
-#### **Artículo 6.3.2 SITUACIONES TIPO 2** {#artículo-6.3.2-situaciones-tipo-2}
+#### **artículo 6.3.2 situaciones tipo 2** {#artículo-6.3.2-situaciones-tipo-2}
 
 Corresponden a este tipo las situaciones de agresión escolar, acoso escolar (bullying) y ciberacoso (Ciberbullying), que no revistan las características de la comisión de un delito y que cumplan con cualquiera de las siguientes características:
 
@@ -53,7 +53,7 @@ b. Que causen daños al cuerpo o a la salud sin generar incapacidad alguna para 
 9. El presidente del comité escolar de convivencia reportará la información del caso al aplicativo que para el efecto se haya implementado en el Sistema de Información Unificado de Convivencia Escolar.  
    
 
-#### **Artículo 6.3.3 SITUACIONES TIPO 3** {#artículo-6.3.3-situaciones-tipo-3}
+#### **artículo 6.3.3 situaciones tipo 3** {#artículo-6.3.3-situaciones-tipo-3}
 
 Corresponden a este tipo las situaciones de agresión escolar que sean constitutivas de presuntos delitos contra la libertad, integridad y formación sexual, referidos en el Título 4 del Libro 11 de la Ley 599 de 2000, o cuando constituyen cualquier otro delito establecido en la ley penal colombiana vigente.
 

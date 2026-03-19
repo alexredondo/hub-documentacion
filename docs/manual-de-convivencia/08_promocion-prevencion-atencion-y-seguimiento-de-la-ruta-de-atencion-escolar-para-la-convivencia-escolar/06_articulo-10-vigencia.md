@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Artículo 10\. VIGENCIA"
+title: "Artículo 10\. vigencia"
 parent: "Capítulo 8: PROMOCIÓN, PREVENCIÓN, ATENCIÓN Y SEGUIMIENTO DE LA RUTA DE ATENCIÓN ESCOLAR PARA LA CONVIVENCIA ESCOLAR"
 grand_parent: "Manual de Convivencia"
 nav_order: 6
@@ -19,6 +19,6 @@ tags:
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
 version_github: "96886b0"
 ---
-### **Artículo 10\. VIGENCIA**  {#artículo-10.-vigencia}
+### **artículo 10\. vigencia** {#artículo-10.-vigencia}
 
 El presente Acuerdo rige a partir del 01 día del mes de enero del año 2026\.

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Artículo 7.9.2. PROTOCOLO DE ENTREGA DE ESTUDIANTES"
+title: "Artículo 7.9.2. Protocolo de entrega de estudiantes"
 parent: "Capítulo 7: REGLAMENTOS"
 grand_parent: "Manual de Convivencia"
 nav_order: 13
@@ -19,7 +19,7 @@ tags:
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
 version_github: "96886b0"
 ---
-### **Artículo 7.9.2. PROTOCOLO DE ENTREGA DE ESTUDIANTES** {#artículo-7.9.2.-protocolo-de-entrega-de-estudiantes}
+### **artículo 7.9.2. protocolo de entrega de estudiantes** {#artículo-7.9.2.-protocolo-de-entrega-de-estudiantes}
 
 **Objetivo:** Asegurar que la salida de los estudiantes sea un proceso organizado, seguro y digno, garantizando que cada menor sea entregado bajo condiciones óptimas de seguridad y bienestar a su acudiente autorizado.
 

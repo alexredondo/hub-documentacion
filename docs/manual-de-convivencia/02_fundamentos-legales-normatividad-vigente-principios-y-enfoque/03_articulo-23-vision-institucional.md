@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Artículo 2.3. VISIÓN INSTITUCIONAL."
+title: "Artículo 2.3. Visión institucional."
 parent: "Capítulo 2: FUNDAMENTOS LEGALES, NORMATIVIDAD VIGENTE, PRINCIPIOS Y ENFOQUE"
 grand_parent: "Manual de Convivencia"
 nav_order: 3
@@ -19,6 +19,6 @@ tags:
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
 version_github: "96886b0"
 ---
-### **Artículo 2.3. VISIÓN INSTITUCIONAL.**  {#artículo-2.3.-visión-institucional.}
+### **artículo 2.3. visión institucional.** {#artículo-2.3.-visión-institucional.}
 
 En el 2028 seremos líderes en la formación integral de jóvenes capaces de gobernar con lógica, ética y estética a ellos mismos, su familia, empresa y territorio.

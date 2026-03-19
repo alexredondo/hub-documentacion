@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Capítulo 5: CONFORMACIÓN Y FUNCIONES DEL COMITÉ DE CONVIVENCIA ESCOLAR"
+title: "Capítulo 5: Conformación y funciones del comité de convivencia escolar"
 parent: Manual de Convivencia # parent: Toma el título de la carpeta manual-de-convivencia
 nav_order: 6
 titulo: "Manual de Convivencia 2024 - Capítulo 5: CONFORMACIÓN Y FUNCIONES DEL COMITÉ DE CONVIVENCIA ESCOLAR"
@@ -19,6 +19,6 @@ resumen: "Reglamento que define las normas de comportamiento, derechos y deberes
 has_children: true
 version_github: "96886b0"
 ---
-# CAPÍTULO 5 
+# Capítulo 5
 
-# CONFORMACIÓN Y FUNCIONES DEL COMITÉ DE CONVIVENCIA ESCOLAR {#conformación-y-funciones-del-comité-de-convivencia-escolar}
+# Conformación y funciones del comité de convivencia escolar {#conformación-y-funciones-del-comité-de-convivencia-escolar}

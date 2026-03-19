@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Artículo 2.4 MISIÓN INSTITUCIONAL."
+title: "Artículo 2.4 Misión institucional."
 parent: "Capítulo 2: FUNDAMENTOS LEGALES, NORMATIVIDAD VIGENTE, PRINCIPIOS Y ENFOQUE"
 grand_parent: "Manual de Convivencia"
 nav_order: 4
@@ -19,6 +19,6 @@ tags:
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
 version_github: "96886b0"
 ---
-### **Artículo 2.4 MISIÓN INSTITUCIONAL.**  {#artículo-2.4-misión-institucional.}
+### **artículo 2.4 misión institucional.** {#artículo-2.4-misión-institucional.}
 
 Nuestra misión es formar seres humanos comprometidos con valores cristianos, con excelencia académica, comunicándose en el idioma inglés y usando las tecnologías eficientemente. 

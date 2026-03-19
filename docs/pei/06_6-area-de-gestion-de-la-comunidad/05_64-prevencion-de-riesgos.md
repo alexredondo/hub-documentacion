@@ -54,4 +54,4 @@ Nuestros programas de seguridad se enfocan en diferentes áreas, tales como:
 * **Primeros auxilios y emergencias:** contamos con personal capacitado en primeros auxilios y plan de emergencias para actuar en caso de situaciones críticas. También realizamos simulacros periódicos para garantizar una respuesta rápida y eficiente en caso de emergencias.  
 * **Prevención de riesgos en actividades extracurriculares:** antes de realizar cualquier actividad extracurricular, evaluamos los riesgos y establecemos medidas de seguridad necesarias para garantizar la seguridad de nuestros estudiantes y personal.
 
-# 
+#

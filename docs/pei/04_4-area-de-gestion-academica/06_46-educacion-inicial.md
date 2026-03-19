@@ -181,4 +181,4 @@ Para lograr este objetivo, se llevarán a cabo diversas actividades que involucr
 
 Además, se promoverá la conformación de un Consejo de Padres, un espacio de diálogo y reflexión para abordar temas de interés común y establecer estrategias conjuntas para el mejoramiento de la calidad educativa. Este consejo ayudará a fomentar la participación activa de las familias en el desarrollo del aprendizaje de los niños, reconociendo la importancia de las familias como núcleo fundamental de la sociedad. Con estas acciones, buscamos fortalecer el vínculo entre el hogar y la escuela, creando un ambiente colaborativo que favorezca el desarrollo integral de nuestros estudiantes.
 
-# 
+#

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Artículo 7.16. PROTOCOLO DE ORDEN Y EXCELENCIA EN LOS CUADERNOS"
+title: "Artículo 7.16. Protocolo de orden y excelencia en los cuadernos"
 parent: "Capítulo 7: REGLAMENTOS"
 grand_parent: "Manual de Convivencia"
 nav_order: 23
@@ -19,7 +19,7 @@ tags:
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
 version_github: "96886b0"
 ---
-### **Artículo 7.16. PROTOCOLO DE ORDEN Y EXCELENCIA EN LOS CUADERNOS** {#artículo-7.16.-protocolo-de-orden-y-excelencia-en-los-cuadernos}
+### **artículo 7.16. protocolo de orden y excelencia en los cuadernos** {#artículo-7.16.-protocolo-de-orden-y-excelencia-en-los-cuadernos}
 
 **Objetivo:** Fomentar hábitos de organización, pulcritud y responsabilidad en el registro del conocimiento, respetando los ritmos individuales y promoviendo el pensamiento crítico a través del orden.
 

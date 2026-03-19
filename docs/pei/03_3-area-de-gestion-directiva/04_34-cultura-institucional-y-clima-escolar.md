@@ -136,4 +136,4 @@ El manual de convivencia para el Centro Educativo Academia las Américas, es una
 
 El manual de convivencia está adjunto a este documento.
 
-## 
+##

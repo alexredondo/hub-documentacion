@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "2. GENERALIDADES"
+title: "2. Generalidades"
 parent: "Proyecto Educativo Institucional (PEI) 2026"
 has_children: true
 nav_order: 2
@@ -19,4 +19,4 @@ tags:
 resumen: "Documento maestro que establece la identidad, objetivos y estrategias de gestión institucional para el periodo 2026."
 version_github: "96886b0"
 ---
-# 2\. GENERALIDADES {#2.-generalidades}
+# 2\. generalidades {#2.-generalidades}

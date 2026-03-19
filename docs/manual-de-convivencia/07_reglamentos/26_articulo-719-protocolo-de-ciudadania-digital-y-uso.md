@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Artículo 7.19. PROTOCOLO DE CIUDADANÍA DIGITAL Y USO ÉTICO DE LA INTELIGENCIA ARTIFICIAL"
+title: "Artículo 7.19. Protocolo de ciudadanía digital y uso ético de la inteligencia artificial"
 parent: "Capítulo 7: REGLAMENTOS"
 grand_parent: "Manual de Convivencia"
 nav_order: 26
@@ -19,7 +19,7 @@ tags:
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
 version_github: "96886b0"
 ---
-### **Artículo 7.19. PROTOCOLO DE CIUDADANÍA DIGITAL Y USO ÉTICO DE LA INTELIGENCIA ARTIFICIAL** {#artículo-7.19.-protocolo-de-ciudadanía-digital-y-uso-ético-de-la-inteligencia-artificial}
+### **artículo 7.19. protocolo de ciudadanía digital y uso ético de la inteligencia artificial** {#artículo-7.19.-protocolo-de-ciudadanía-digital-y-uso-ético-de-la-inteligencia-artificial}
 
 **Objetivo:** Promover el uso responsable, ético y crítico de las herramientas tecnológicas y la Inteligencia Artificial (IA) en el proceso de aprendizaje.
 

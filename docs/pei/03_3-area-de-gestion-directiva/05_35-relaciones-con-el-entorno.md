@@ -121,4 +121,4 @@ con algunos invitados especiales
 Los integrantes que asisten a diferentes eventos socializan las lecciones aprendidas, y  
 un resumen de lo que expusieron o aprendieron.
 
-# 
+#

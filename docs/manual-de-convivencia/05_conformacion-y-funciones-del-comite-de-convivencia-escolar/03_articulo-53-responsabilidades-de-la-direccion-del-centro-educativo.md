@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Artículo 5.3. RESPONSABILIDADES DE LA DIRECCIÓN DEL CENTRO EDUCATIVO."
+title: "Artículo 5.3. Responsabilidades de la dirección del centro educativo."
 parent: "Capítulo 5: CONFORMACIÓN Y FUNCIONES DEL COMITÉ DE CONVIVENCIA ESCOLAR"
 grand_parent: "Manual de Convivencia"
 nav_order: 3
@@ -19,7 +19,7 @@ tags:
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
 version_github: "96886b0"
 ---
-### **Artículo 5.3. RESPONSABILIDADES DE LA DIRECCIÓN DEL CENTRO EDUCATIVO.** {#artículo-5.3.-responsabilidades-de-la-dirección-del-centro-educativo.}
+### **artículo 5.3. responsabilidades de la dirección del centro educativo.** {#artículo-5.3.-responsabilidades-de-la-dirección-del-centro-educativo.}
 
  Además de las señaladas en la normatividad vigente y que le son propias, la Dirección del Centro Educativo tendrá las siguientes responsabilidades: 
 

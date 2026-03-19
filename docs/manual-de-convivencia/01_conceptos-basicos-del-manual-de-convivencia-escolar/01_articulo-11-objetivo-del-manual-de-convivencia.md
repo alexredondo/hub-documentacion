@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Artículo 1.1 OBJETIVO DEL MANUAL DE CONVIVENCIA"
+title: "Artículo 1.1 Objetivo del manual de convivencia"
 parent: "Capítulo 1: CONCEPTOS BÁSICOS DEL MANUAL DE CONVIVENCIA ESCOLAR"
 grand_parent: "Manual de Convivencia"
 nav_order: 1
@@ -19,7 +19,7 @@ tags:
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
 version_github: "96886b0"
 ---
-### **Artículo 1.1 OBJETIVO DEL MANUAL DE CONVIVENCIA** {#artículo-1.1-objetivo-del-manual-de-convivencia}
+### **artículo 1.1 objetivo del manual de convivencia** {#artículo-1.1-objetivo-del-manual-de-convivencia}
 
 Sirve para los objetivos de la educación. Proporciona a los educandos una formación en valores morales, sociales, cívicos.
 

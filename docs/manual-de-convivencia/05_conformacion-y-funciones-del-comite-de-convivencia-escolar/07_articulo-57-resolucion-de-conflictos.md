@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Artículo 5.7. RESOLUCIÓN DE CONFLICTOS"
+title: "Artículo 5.7. Resolución de conflictos"
 parent: "Capítulo 5: CONFORMACIÓN Y FUNCIONES DEL COMITÉ DE CONVIVENCIA ESCOLAR"
 grand_parent: "Manual de Convivencia"
 nav_order: 7
@@ -19,6 +19,6 @@ tags:
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
 version_github: "96886b0"
 ---
-### **Artículo 5.7. RESOLUCIÓN DE CONFLICTOS** {#artículo-5.7.-resolución-de-conflictos}
+### **artículo 5.7. resolución de conflictos** {#artículo-5.7.-resolución-de-conflictos}
 
 Los conflictos en el centro educativo se resuelven a través del Comité de Convivencia Escolar. Este comité tiene la función de identificar, documentar, analizar y resolver los conflictos que se presenten entre estudiantes y cualquier otro miembro de la comunidad educativa. Además, el comité puede convocar a un espacio de conciliación para la resolución de situaciones conflictivas que afecten la convivencia escolar. En caso de que las situaciones conflictivas trascienden el ámbito escolar y revistan las características de la comisión de una conducta punible, deben ser atendidas por otras instancias o autoridades que hacen parte de la estructura del Sistema y de la Ruta.

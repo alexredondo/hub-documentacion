@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Artículo 7.13. DE LAS MEDIDAS PEDAGÓGICAS DE REPARACIÓN QUE CONTRIBUYEN A LA PROMOCIÓN DE LA CONVIVENCIA ESCOLAR"
+title: "Artículo 7.13. De las medidas pedagógicas de reparación que contribuyen a la promoción de la convivencia escolar"
 parent: "Capítulo 7: REGLAMENTOS"
 grand_parent: "Manual de Convivencia"
 nav_order: 20
@@ -19,7 +19,7 @@ tags:
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
 version_github: "96886b0"
 ---
-### **Artículo 7.13. DE LAS MEDIDAS PEDAGÓGICAS DE REPARACIÓN QUE CONTRIBUYEN A LA PROMOCIÓN DE LA CONVIVENCIA ESCOLAR**  {#artículo-7.13.-de-las-medidas-pedagógicas-de-reparación-que-contribuyen-a-la-promoción-de-la-convivencia-escolar}
+### **artículo 7.13. de las medidas pedagógicas de reparación que contribuyen a la promoción de la convivencia escolar** {#artículo-7.13.-de-las-medidas-pedagógicas-de-reparación-que-contribuyen-a-la-promoción-de-la-convivencia-escolar}
 
 #### **Artículo 7.13.1. La conciliación.**  {#artículo-7.13.1.-la-conciliación.}
 

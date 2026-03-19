@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Artículo 7.4. LA ASAMBLEA GENERAL DE PADRES DE FAMILIA."
+title: "Artículo 7.4. La asamblea general de padres de familia."
 parent: "Capítulo 7: REGLAMENTOS"
 grand_parent: "Manual de Convivencia"
 nav_order: 4
@@ -19,7 +19,7 @@ tags:
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
 version_github: "96886b0"
 ---
-### **Artículo 7.4. LA ASAMBLEA GENERAL DE PADRES DE FAMILIA.**  {#artículo-7.4.-la-asamblea-general-de-padres-de-familia.}
+### **artículo 7.4. la asamblea general de padres de familia.** {#artículo-7.4.-la-asamblea-general-de-padres-de-familia.}
 
 La Asamblea General de Padres de Familia está conformada por la totalidad de padres de familia del centro educativo, quienes son los responsables del ejercicio de sus deberes y derechos en relación con el proceso educativo de sus hijos. 
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Capítulo 3: DIRECTORIO DE REDES"
+title: "Capítulo 3: Directorio de redes"
 parent: Manual de Convivencia # parent: Toma el título de la carpeta manual-de-convivencia
 nav_order: 4
 titulo: "Manual de Convivencia 2024 - Capítulo 3: DIRECTORIO DE REDES"
@@ -19,6 +19,6 @@ resumen: "Reglamento que define las normas de comportamiento, derechos y deberes
 has_children: true
 version_github: "96886b0"
 ---
-# CAPÍTULO 3 
+# Capítulo 3
 
-# DIRECTORIO DE REDES {#directorio-de-redes}
+# Directorio de redes {#directorio-de-redes}

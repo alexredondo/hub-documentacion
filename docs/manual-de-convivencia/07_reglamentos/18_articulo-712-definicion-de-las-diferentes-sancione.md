@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Artículo 7.12. DEFINICIÓN DE LAS DIFERENTES SANCIONES APLICABLES A LOS ESTUDIANTES"
+title: "Artículo 7.12. Definición de las diferentes sanciones aplicables a los estudiantes"
 parent: "Capítulo 7: REGLAMENTOS"
 grand_parent: "Manual de Convivencia"
 nav_order: 18
@@ -19,7 +19,7 @@ tags:
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
 version_github: "96886b0"
 ---
-### **Artículo 7.12. DEFINICIÓN DE LAS DIFERENTES SANCIONES APLICABLES A LOS ESTUDIANTES** {#artículo-7.12.-definición-de-las-diferentes-sanciones-aplicables-a-los-estudiantes}
+### **artículo 7.12. definición de las diferentes sanciones aplicables a los estudiantes** {#artículo-7.12.-definición-de-las-diferentes-sanciones-aplicables-a-los-estudiantes}
 
 A todos los estudiantes se les garantiza el debido proceso de la siguiente manera:
 
@@ -28,11 +28,11 @@ A todos los estudiantes se les garantiza el debido proceso de la siguiente maner
 3. **El derecho de defensa:** Todos los estudiantes, sin restricción alguna, tiene derecho a defenderse en un proceso, y ser representados por sus padres. Dentro del proceso también podrá controvertir y aportar pruebas, apelar e interponer recursos.  
 4. **Cosa juzgada,** es decir, ningún estudiante podrá ser juzgado dos veces por el mismo hecho.
 
-#### **Artículo 7.12.1. PRINCIPIOS** {#artículo-7.12.1.-principios}
+#### **artículo 7.12.1. principios** {#artículo-7.12.1.-principios}
 
 El incumplimiento de las normas de convivencia será valorado considerando la situación y las condiciones personales de cada estudiante, con base en la filosofía y en los procedimientos sobre el buen desarrollo de la convivencia social.
 
-#### **Artículo 7.12.2 CARÁCTER APLICADO A LA CORRECCIÓN DEL INCUMPLIMIENTO**  {#artículo-7.12.2-carácter-aplicado-a-la-corrección-del-incumplimiento}
+#### **artículo 7.12.2 carácter aplicado a la corrección del incumplimiento** {#artículo-7.12.2-carácter-aplicado-a-la-corrección-del-incumplimiento}
 
 Las correcciones que se apliquen por el incumplimiento de las normas de convivencia tendrán carácter educativo y recuperador, buscando garantizar el respeto a los derechos del resto de los miembros de la comunidad educativa. En todo caso, en la corrección del incumplimiento se debe tener en cuenta: 
 
@@ -41,11 +41,11 @@ Las correcciones que se apliquen por el incumplimiento de las normas de conviven
 3. Las sanciones tendrán en cuenta la edad del estudiante, tanto en el momento de decidir sobre la iniciación del procedimiento, como a efectos de graduar la aplicación de la corrección o sanción cuando proceda.   
 4. Se tendrán en cuenta las circunstancias personales, familiares o sociales del estudiante antes de resolver el procedimiento corrector. A estos efectos, se podrán solicitar los informes que se estimen necesarios sobre las aludidas circunstancias y recomendar, en su caso, a la familia o acudientes del estudiante, la adopción de las medidas necesarias. 
 
-#### **Artículo 7.12.3. RESPONSABILIDAD INTENCIONAL O NEGLIGENTE.**  {#artículo-7.12.3.-responsabilidad-intencional-o-negligente.}
+#### **artículo 7.12.3. responsabilidad intencional o negligente.** {#artículo-7.12.3.-responsabilidad-intencional-o-negligente.}
 
 Cada estudiante que individual o colectivamente causen daño de forma intencional o negligente al material o instalaciones de la institución quedan obligados sin excepción a reparar el daño causado o resarcir económicamente su reparación. Igualmente, el estudiante que sustraiga bienes de la institución deberá restituir lo sustraído y someterse a las sanciones que exija la gravedad de los hechos dentro de la institución, contemplados en el presente Manual de Convivencia, como también frente a las autoridades judiciales según sea el caso. En toda circunstancia, la familia de cada estudiante será responsable civilmente en los términos previstos por la ley y el reglamento. 
 
-#### **Artículo 7.12.4. CIRCUNSTANCIAS ATENUANTES.** {#artículo-7.12.4.-circunstancias-atenuantes.}
+#### **artículo 7.12.4. circunstancias atenuantes.** {#artículo-7.12.4.-circunstancias-atenuantes.}
 
  A efectos de la graduación de las correcciones se consideran circunstancias atenuantes: 
 
@@ -54,14 +54,14 @@ Cada estudiante que individual o colectivamente causen daño de forma intenciona
 3. La confesión  
 4. El buen comportamiento precedente. 
 
-#### **Artículo 7.12.5 CIRCUNSTANCIAS AGRAVANTES.**  {#artículo-7.12.5-circunstancias-agravantes.}
+#### **artículo 7.12.5 circunstancias agravantes.** {#artículo-7.12.5-circunstancias-agravantes.}
 
 A efectos de la graduación de las correcciones se consideran circunstancias agravantes: 
 
 1. La premeditación y la reiteración.   
 2. Causar daño, injuria u ofensa a un miembro de la comunidad educativa y en particular el aprovechamiento de las condiciones de superioridad manifiesta. 
 
-#### **Artículo 7.12.6 MEDIDAS CORRECTIVAS** {#artículo-7.12.6-medidas-correctivas}
+#### **artículo 7.12.6 medidas correctivas** {#artículo-7.12.6-medidas-correctivas}
 
 ##### **Artículo 7.12.6.1. Anotación en el observador estudiantil** {#artículo-7.12.6.1.-anotación-en-el-observador-estudiantil}
 
@@ -91,7 +91,7 @@ El observador estudiantil incluye la siguiente información:
 
 Se adjunta anotación en el observador del estudiante.
 
-***MODELO DE ACTA DE COMPROMISO***
+***modelo de acta de compromiso***
 
 *Ciudad y fecha.*  
 *Estudiante:*  

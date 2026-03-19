@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "6. ÁREA DE GESTIÓN DE LA COMUNIDAD"
+title: "6. Área de gestión de la comunidad"
 parent: "Proyecto Educativo Institucional (PEI) 2026"
 has_children: true
 nav_order: 6
@@ -19,4 +19,4 @@ tags:
 resumen: "Documento maestro que establece la identidad, objetivos y estrategias de gestión institucional para el periodo 2026."
 version_github: "96886b0"
 ---
-# 6\. ÁREA DE GESTIÓN DE LA COMUNIDAD {#6.-área-de-gestión-de-la-comunidad}
+# 6\. área de gestión de la comunidad {#6.-área-de-gestión-de-la-comunidad}

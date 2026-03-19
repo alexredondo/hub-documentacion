@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Capítulo 1: CONCEPTOS BÁSICOS DEL MANUAL DE CONVIVENCIA ESCOLAR"
+title: "Capítulo 1: Conceptos básicos del manual de convivencia escolar"
 parent: Manual de Convivencia # parent: Toma el título de la carpeta manual-de-convivencia
 nav_order: 2
 titulo: "Manual de Convivencia 2024 - Capítulo 1: CONCEPTOS BÁSICOS DEL MANUAL DE CONVIVENCIA ESCOLAR"
@@ -19,6 +19,6 @@ resumen: "Reglamento que define las normas de comportamiento, derechos y deberes
 has_children: true
 version_github: "96886b0"
 ---
-# CAPÍTULO 1
+# Capítulo 1
 
-# CONCEPTOS BÁSICOS DEL MANUAL DE CONVIVENCIA ESCOLAR {#conceptos-básicos-del-manual-de-convivencia-escolar}
+# Conceptos básicos del manual de convivencia escolar {#conceptos-básicos-del-manual-de-convivencia-escolar}

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Artículo 5.2. RESPONSABILIDADES DEL CENTRO EDUCATIVO"
+title: "Artículo 5.2. Responsabilidades del centro educativo"
 parent: "Capítulo 5: CONFORMACIÓN Y FUNCIONES DEL COMITÉ DE CONVIVENCIA ESCOLAR"
 grand_parent: "Manual de Convivencia"
 nav_order: 2
@@ -19,7 +19,7 @@ tags:
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
 version_github: "96886b0"
 ---
-### **Artículo 5.2. RESPONSABILIDADES DEL CENTRO EDUCATIVO**  {#artículo-5.2.-responsabilidades-del-centro-educativo}
+### **artículo 5.2. responsabilidades del centro educativo** {#artículo-5.2.-responsabilidades-del-centro-educativo}
 
 1. Garantizar a sus estudiantes, docentes, directivos, docentes y demás personal del Colegio el respeto a la dignidad e integridad física y moral en el ámbito de la convivencia escolar y los derechos humanos, sexuales y reproductivos.   
 2. Implementar el Comité Escolar de Convivencia y garantizar el cumplimiento de sus funciones acorde a lo estipulado en los artículos 12 y 13 de la Ley 1620 de 2013\.   

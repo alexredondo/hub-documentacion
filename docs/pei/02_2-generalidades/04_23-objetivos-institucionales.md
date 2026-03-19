@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "2.3 OBJETIVOS INSTITUCIONALES"
+title: "2.3 Objetivos institucionales"
 parent: "2. GENERALIDADES"
 grand_parent: "Proyecto Educativo Institucional (PEI) 2026"
 nav_order: 4
@@ -19,7 +19,7 @@ tags:
 resumen: "Documento maestro que establece la identidad, objetivos y estrategias de gestión institucional para el periodo 2026."
 version_github: "96886b0"
 ---
-## 2.3 OBJETIVOS INSTITUCIONALES {#2.3-objetivos-institucionales}
+## 2.3 Objetivos institucionales {#2.3-objetivos-institucionales}
 
 1. Formar a los estudiantes como seres humanos y ciudadanos, responsables, críticos, independientes, conscientes de su propio aprendizaje y de las relaciones y exigencias consigo mismos, con sus familias, con la comunidad en la cual viven, con la organización para la cual trabajan, con el país y con la sociedad global en su conjunto, de la cual inevitablemente un miembro.  
 2. Acompañar las motivaciones de los estudiantes, fomentar la libertad de pensamiento y animar la conquista de la autonomía.  

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Artículo 7.9.1. PROTOCOLO DE RECEPCIÓN DE ESTUDIANTES"
+title: "Artículo 7.9.1. Protocolo de recepción de estudiantes"
 parent: "Capítulo 7: REGLAMENTOS"
 grand_parent: "Manual de Convivencia"
 nav_order: 12
@@ -19,7 +19,7 @@ tags:
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
 version_github: "96886b0"
 ---
-### **Artículo 7.9.1. PROTOCOLO DE RECEPCIÓN DE ESTUDIANTES** {#artículo-7.9.1.-protocolo-de-recepción-de-estudiantes}
+### **artículo 7.9.1. protocolo de recepción de estudiantes** {#artículo-7.9.1.-protocolo-de-recepción-de-estudiantes}
 
 **Objetivo:** Garantizar una transición segura, cálida y organizada del entorno familiar al escolar, velando por la integridad física y emocional del estudiante.
 
@@ -51,7 +51,7 @@ Los estudiantes que lleguen después de la hora de cierre de puerta permanecerá
 | **3ª Vez**   | Citación obligatoria a **"Hope Meeting"** para acuerdos de mejora. | Presencial          |
 | **4ª Vez**   | Reporte directo a Coordinación para proceso disciplinario.         | Topic: Asistencia   |
 
-#### 
+####
 
 #### **5\. Protocolo de Salud y Medicamentos** {#5.-protocolo-de-salud-y-medicamentos}
 

@@ -19,7 +19,7 @@ resumen: "Documento maestro que establece la identidad, objetivos y estrategias 
 version_github: "96886b0"
 ---
 
-# PROYECTO EDUCATIVO INSTITUCIONAL
+# Proyecto educativo institucional
 
 ## Versión 2026
 

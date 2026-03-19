@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Artículo 7.2. EL CONSEJO DIRECTIVO"
+title: "Artículo 7.2. El consejo directivo"
 parent: "Capítulo 7: REGLAMENTOS"
 grand_parent: "Manual de Convivencia"
 nav_order: 2
@@ -19,7 +19,7 @@ tags:
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
 version_github: "96886b0"
 ---
-### **Artículo 7.2. EL CONSEJO DIRECTIVO**  {#artículo-7.2.-el-consejo-directivo}
+### **artículo 7.2. el consejo directivo** {#artículo-7.2.-el-consejo-directivo}
 
 Es la instancia directiva, de participación de la comunidad educativa y de orientación académica del Centro Educativo.
 

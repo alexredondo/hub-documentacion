@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "5. ÁREA DE GESTIÓN ADMINISTRATIVA Y FINANCIERA"
+title: "5. Área de gestión administrativa y financiera"
 parent: "Proyecto Educativo Institucional (PEI) 2026"
 has_children: true
 nav_order: 5
@@ -19,4 +19,4 @@ tags:
 resumen: "Documento maestro que establece la identidad, objetivos y estrategias de gestión institucional para el periodo 2026."
 version_github: "96886b0"
 ---
-# 5\. ÁREA DE GESTIÓN ADMINISTRATIVA Y FINANCIERA {#5.-área-de-gestión-administrativa-y-financiera}
+# 5\. área de gestión administrativa y financiera {#5.-área-de-gestión-administrativa-y-financiera}

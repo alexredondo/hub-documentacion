@@ -75,7 +75,7 @@ En esta área, buscamos fomentar el aprendizaje del idioma inglés, así como el
 
 En esta área, buscamos fomentar el desarrollo de habilidades matemáticas y el pensamiento lógico. Para ello, utilizamos diversas estrategias didácticas como la resolución de problemas, el análisis de datos y la modelización matemática. De esta forma, los estudiantes pueden aprender a manejar datos y a resolver problemas de forma efectiva.
 
-##### 
+#####
 
 ##### 4.2.1.1.10 Tecnología e informática {#4.2.1.1.10-tecnología-e-informática}
 

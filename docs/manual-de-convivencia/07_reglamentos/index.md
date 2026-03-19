@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Capítulo 7: REGLAMENTOS"
+title: "Capítulo 7: Reglamentos"
 parent: Manual de Convivencia # parent: Toma el título de la carpeta manual-de-convivencia
 nav_order: 8
 titulo: "Manual de Convivencia 2024 - Capítulo 7: REGLAMENTOS"
@@ -19,6 +19,6 @@ resumen: "Reglamento que define las normas de comportamiento, derechos y deberes
 has_children: true
 version_github: "96886b0"
 ---
-# CAPÍTULO 7 
+# Capítulo 7
 
-# REGLAMENTOS {#reglamentos}
+# Reglamentos {#reglamentos}

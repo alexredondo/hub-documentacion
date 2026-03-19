@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Artículo 4.2. NORMAS DE CONVIVENCIA APLICADAS A LA COMUNIDAD EDUCATIVA"
+title: "Artículo 4.2. Normas de convivencia aplicadas a la comunidad educativa"
 parent: "Capítulo 4: PRINCIPIOS Y RESPONSABILIDADES DE LA COMUNIDAD EDUCATIVA CON LA CONVIVENCIA ESCOLAR"
 grand_parent: "Manual de Convivencia"
 nav_order: 3
@@ -19,7 +19,7 @@ tags:
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
 version_github: "96886b0"
 ---
-### **Artículo 4.2. NORMAS DE CONVIVENCIA APLICADAS A LA COMUNIDAD EDUCATIVA** {#artículo-4.2.-normas-de-convivencia-aplicadas-a-la-comunidad-educativa}
+### **artículo 4.2. normas de convivencia aplicadas a la comunidad educativa** {#artículo-4.2.-normas-de-convivencia-aplicadas-a-la-comunidad-educativa}
 
 Serán normas específicas de convivencia las siguientes: 
 

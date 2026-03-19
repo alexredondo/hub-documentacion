@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Artículo 7.18. PROTOCOLO DE REUNIONES Y ENCUENTROS CON LA COMUNIDAD EDUCATIVA"
+title: "Artículo 7.18. Protocolo de reuniones y encuentros con la comunidad educativa"
 parent: "Capítulo 7: REGLAMENTOS"
 grand_parent: "Manual de Convivencia"
 nav_order: 25
@@ -19,7 +19,7 @@ tags:
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
 version_github: "96886b0"
 ---
-### **Artículo 7.18. PROTOCOLO DE REUNIONES Y ENCUENTROS CON LA COMUNIDAD EDUCATIVA** {#artículo-7.18.-protocolo-de-reuniones-y-encuentros-con-la-comunidad-educativa}
+### **artículo 7.18. protocolo de reuniones y encuentros con la comunidad educativa** {#artículo-7.18.-protocolo-de-reuniones-y-encuentros-con-la-comunidad-educativa}
 
 **Objetivo:** Establecer los parámetros de interacción entre docentes y acudientes, garantizando un ambiente profesional, empático y orientado a soluciones pedagógicas bajo la filosofía institucional.
 

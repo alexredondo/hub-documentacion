@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Artículo 6.1. OBJETIVO DE LA RUTA"
+title: "Artículo 6.1. Objetivo de la ruta"
 parent: "Capítulo 6: CRITERIOS PARA IDENTIFICAR SITUACIONES SEGÚN TIPO, PROTOCOLOS Y RUTA DE ATENCIÓN INTEGRAL DE CONVIVENCIA ESCOLAR"
 grand_parent: "Manual de Convivencia"
 nav_order: 1
@@ -19,7 +19,7 @@ tags:
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
 version_github: "96886b0"
 ---
-### **Artículo 6.1. OBJETIVO DE LA RUTA** {#artículo-6.1.-objetivo-de-la-ruta}
+### **artículo 6.1. objetivo de la ruta** {#artículo-6.1.-objetivo-de-la-ruta}
 
 Fortalecer el ejercicio de los Derechos Humanos (DDHH) y Derechos Humanos Sexuales y Reproductivos (DHSR) en el Centro Educativo; la mitigación de riesgos; el manejo de situaciones que afectan la convivencia escolar, y el seguimiento a lo que ocurre en los diferentes contextos y su manejo por parte del Centro Educativo. Los resultados esperados son: 
 

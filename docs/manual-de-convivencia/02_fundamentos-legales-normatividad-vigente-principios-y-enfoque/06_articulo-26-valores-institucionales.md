@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Artículo 2.6. VALORES INSTITUCIONALES."
+title: "Artículo 2.6. Valores institucionales."
 parent: "Capítulo 2: FUNDAMENTOS LEGALES, NORMATIVIDAD VIGENTE, PRINCIPIOS Y ENFOQUE"
 grand_parent: "Manual de Convivencia"
 nav_order: 6
@@ -19,7 +19,7 @@ tags:
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
 version_github: "96886b0"
 ---
-### **Artículo 2.6. VALORES INSTITUCIONALES.**  {#artículo-2.6.-valores-institucionales.}
+### **artículo 2.6. valores institucionales.** {#artículo-2.6.-valores-institucionales.}
 
 Los valores institucionales serán tenidos en cuenta en cada una de las áreas y asignaturas del plan de estudios dentro y fuera de la institución, a través del ejemplo y la búsqueda constante de la perfección: 
 

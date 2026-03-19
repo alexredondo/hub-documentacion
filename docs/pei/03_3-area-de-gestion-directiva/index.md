@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "3. ÁREA DE GESTIÓN DIRECTIVA"
+title: "3. Área de gestión directiva"
 parent: "Proyecto Educativo Institucional (PEI) 2026"
 has_children: true
 nav_order: 3
@@ -19,4 +19,4 @@ tags:
 resumen: "Documento maestro que establece la identidad, objetivos y estrategias de gestión institucional para el periodo 2026."
 version_github: "96886b0"
 ---
-# 3\. ÁREA DE GESTIÓN DIRECTIVA {#3.-área-de-gestión-directiva}
+# 3\. área de gestión directiva {#3.-área-de-gestión-directiva}

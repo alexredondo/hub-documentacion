@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Artículo 7.11. NORMAS SOBRE EL UNIFORME"
+title: "Artículo 7.11. Normas sobre el uniforme"
 parent: "Capítulo 7: REGLAMENTOS"
 grand_parent: "Manual de Convivencia"
 nav_order: 16
@@ -19,7 +19,7 @@ tags:
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
 version_github: "96886b0"
 ---
-### **Artículo 7.11. NORMAS SOBRE EL UNIFORME** {#artículo-7.11.-normas-sobre-el-uniforme}
+### **artículo 7.11. normas sobre el uniforme** {#artículo-7.11.-normas-sobre-el-uniforme}
 
 El uniforme de la comunidad de estudiantes se actualizará mínimo cada cinco (05) años por medio de resolución del Consejo Directivo y previo consentimiento de todos los integrantes del gobierno escolar. 
 

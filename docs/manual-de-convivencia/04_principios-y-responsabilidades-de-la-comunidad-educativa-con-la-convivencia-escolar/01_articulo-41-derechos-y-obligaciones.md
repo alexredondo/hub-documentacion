@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Artículo 4.1. DERECHOS Y OBLIGACIONES"
+title: "Artículo 4.1. Derechos y obligaciones"
 parent: "Capítulo 4: PRINCIPIOS Y RESPONSABILIDADES DE LA COMUNIDAD EDUCATIVA CON LA CONVIVENCIA ESCOLAR"
 grand_parent: "Manual de Convivencia"
 nav_order: 1
@@ -19,7 +19,7 @@ tags:
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
 version_github: "96886b0"
 ---
-### **Artículo 4.1. DERECHOS Y OBLIGACIONES** {#artículo-4.1.-derechos-y-obligaciones}
+### **artículo 4.1. derechos y obligaciones** {#artículo-4.1.-derechos-y-obligaciones}
 
 #### **Artículo 4.1.1 Derechos y obligaciones de los directivos, docentes, personal administrativo y servicios generales.** {#artículo-4.1.1-derechos-y-obligaciones-de-los-directivos,-docentes,-personal-administrativo-y-servicios-generales.}
 

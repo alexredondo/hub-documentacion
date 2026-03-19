@@ -19,7 +19,7 @@ resumen: "Reglamento que define las normas de comportamiento, derechos y deberes
 version_github: "96886b0"
 ---
 
-**[CONCEPTOS BÁSICOS DEL MANUAL DE CONVIVENCIA ESCOLAR	7](#conceptos-básicos-del-manual-de-convivencia-escolar)**
+**[conceptos básicos del manual de convivencia escolar	7](#conceptos-básicos-del-manual-de-convivencia-escolar)**
 
 [Artículo 1.1 OBJETIVO DEL MANUAL DE CONVIVENCIA	7](#artículo-1.1-objetivo-del-manual-de-convivencia)
 
@@ -388,13 +388,13 @@ version_github: "96886b0"
 [Artículo 10\. VIGENCIA	100](#artículo-10.-vigencia)
 
 [Artículo 11\. PUBLICACIÓN	100](#artículo-11.-publicación)  
-**CENTRO EDUCATIVO**  
-**ACADEMIA DE LAS AMÉRICAS**
+**Centro educativo**
+**Academia de las américas**
 
-**CONSEJO DIRECTIVO**
+**Consejo directivo**
 
-**ACUERDO No. 10-281125**  
-**DEL 11 DE NOVIEMBRE DE 2025**
+**Acuerdo no. 10-281125**
+**Del 11 de noviembre de 2025**
 
 **Por el cual se expide el Manual de Convivencia para estudiantes del**  
 **Centro Educativo Academia de las Américas.**
@@ -414,4 +414,4 @@ Que el Manual de Convivencia para los Estudiantes ha sido elaborado de conformid
 * El Decreto 1075 de 2015 (Decreto Único Reglamentario del Sector Educación)  
 * La Ley 1098 de 2006 (Código de Infancia y Adolescencia)
 
-**A C U E R D A:**
+**A c u e r d a:**

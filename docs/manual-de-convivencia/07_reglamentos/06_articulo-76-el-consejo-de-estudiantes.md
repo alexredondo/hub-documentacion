@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Artículo 7.6. EL CONSEJO DE ESTUDIANTES"
+title: "Artículo 7.6. El consejo de estudiantes"
 parent: "Capítulo 7: REGLAMENTOS"
 grand_parent: "Manual de Convivencia"
 nav_order: 6
@@ -19,7 +19,7 @@ tags:
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
 version_github: "96886b0"
 ---
-### **Artículo 7.6. EL CONSEJO DE ESTUDIANTES** {#artículo-7.6.-el-consejo-de-estudiantes}
+### **artículo 7.6. el consejo de estudiantes** {#artículo-7.6.-el-consejo-de-estudiantes}
 
 Es el organismo que garantiza la continua participación de la comunidad estudiantil en la vida institucional. 
 

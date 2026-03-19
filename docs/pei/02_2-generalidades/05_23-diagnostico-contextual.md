@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "2.3 DIAGNÓSTICO CONTEXTUAL"
+title: "2.3 Diagnóstico contextual"
 parent: "2. GENERALIDADES"
 grand_parent: "Proyecto Educativo Institucional (PEI) 2026"
 nav_order: 5
@@ -19,7 +19,7 @@ tags:
 resumen: "Documento maestro que establece la identidad, objetivos y estrategias de gestión institucional para el periodo 2026."
 version_github: "96886b0"
 ---
-## 2.3 DIAGNÓSTICO CONTEXTUAL {#2.3-diagnóstico-contextual}
+## 2.3 Diagnóstico contextual {#2.3-diagnóstico-contextual}
 
 ### 2.3.1 Macro contexto {#2.3.1-macro-contexto}
 
@@ -301,4 +301,4 @@ Resultados:
 **Cobertura por sexo**  
 **![][image27]**
 
-# 
+#

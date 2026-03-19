@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Artículo 5.10. CRONOGRAMA DE SESIONES DEL COMITÉ DE CONVIVENCIA ESCOLAR"
+title: "Artículo 5.10. Cronograma de sesiones del comité de convivencia escolar"
 parent: "Capítulo 5: CONFORMACIÓN Y FUNCIONES DEL COMITÉ DE CONVIVENCIA ESCOLAR"
 grand_parent: "Manual de Convivencia"
 nav_order: 10
@@ -19,7 +19,7 @@ tags:
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
 version_github: "96886b0"
 ---
-### **Artículo 5.10. CRONOGRAMA DE SESIONES DEL COMITÉ DE CONVIVENCIA ESCOLAR** {#artículo-5.10.-cronograma-de-sesiones-del-comité-de-convivencia-escolar}
+### **artículo 5.10. cronograma de sesiones del comité de convivencia escolar** {#artículo-5.10.-cronograma-de-sesiones-del-comité-de-convivencia-escolar}
 
 1. Segundo jueves de febrero: Primera sesión del año para revisar y ajustar el Manual de Convivencia y el Sistema Institucional de Evaluación.  
 2. Segundo jueves de marzo: Segunda sesión del año para identificar y evaluar los factores de riesgo y factores protectores que inciden en la convivencia escolar.  

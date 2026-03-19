@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Artículo 5.4. RESPONSABILIDADES DE LOS DOCENTES."
+title: "Artículo 5.4. Responsabilidades de los docentes."
 parent: "Capítulo 5: CONFORMACIÓN Y FUNCIONES DEL COMITÉ DE CONVIVENCIA ESCOLAR"
 grand_parent: "Manual de Convivencia"
 nav_order: 4
@@ -19,7 +19,7 @@ tags:
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
 version_github: "96886b0"
 ---
-### **Artículo 5.4. RESPONSABILIDADES DE LOS DOCENTES.**  {#artículo-5.4.-responsabilidades-de-los-docentes.}
+### **artículo 5.4. responsabilidades de los docentes.** {#artículo-5.4.-responsabilidades-de-los-docentes.}
 
 Además de las que establece las normas vigentes y que le son propias, tendrán las siguientes responsabilidades: 
 

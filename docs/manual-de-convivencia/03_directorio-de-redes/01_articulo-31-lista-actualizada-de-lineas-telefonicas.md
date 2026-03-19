@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Artículo 3.1. LISTA ACTUALIZADA DE LÍNEAS TELEFÓNICAS"
+title: "Artículo 3.1. Lista actualizada de líneas telefónicas"
 parent: "Capítulo 3: DIRECTORIO DE REDES"
 grand_parent: "Manual de Convivencia"
 nav_order: 1
@@ -19,7 +19,7 @@ tags:
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
 version_github: "96886b0"
 ---
-### **Artículo 3.1. LISTA ACTUALIZADA DE LÍNEAS TELEFÓNICAS** {#artículo-3.1.-lista-actualizada-de-líneas-telefónicas}
+### **artículo 3.1. lista actualizada de líneas telefónicas** {#artículo-3.1.-lista-actualizada-de-líneas-telefónicas}
 
 **Instituto Colombiano de Bienestar Familiar**
 

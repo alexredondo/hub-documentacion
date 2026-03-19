@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Artículo 7.7. LA PERSONERÍA ESTUDIANTIL"
+title: "Artículo 7.7. La personería estudiantil"
 parent: "Capítulo 7: REGLAMENTOS"
 grand_parent: "Manual de Convivencia"
 nav_order: 7
@@ -19,7 +19,7 @@ tags:
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
 version_github: "96886b0"
 ---
-### **Artículo 7.7. LA PERSONERÍA ESTUDIANTIL** {#artículo-7.7.-la-personería-estudiantil}
+### **artículo 7.7. la personería estudiantil** {#artículo-7.7.-la-personería-estudiantil}
 
 Dentro de los treinta días calendario siguientes a la iniciación de clases, será elegido el personero estudiantil, quién será un estudiante que curse el último grado que ofrezca la institución. Para tal efecto, la dirección convocará a todos los estudiantes matriculados con el fin de elegirlo por el sistema de mayoría simple y mediante voto secreto. 
 

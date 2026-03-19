@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Artículo 7.10 REGLAMENTO DE HIGIENE Y PRESENTACIÓN PERSONAL"
+title: "Artículo 7.10 Reglamento de higiene y presentación personal"
 parent: "Capítulo 7: REGLAMENTOS"
 grand_parent: "Manual de Convivencia"
 nav_order: 15
@@ -19,7 +19,7 @@ tags:
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
 version_github: "96886b0"
 ---
-### **Artículo 7.10 REGLAMENTO DE HIGIENE Y PRESENTACIÓN PERSONAL** {#artículo-7.10-reglamento-de-higiene-y-presentación-personal}
+### **artículo 7.10 reglamento de higiene y presentación personal** {#artículo-7.10-reglamento-de-higiene-y-presentación-personal}
 
 1. El aseo y la buena presentación en todas las dependencias de la institución es responsabilidad de todos los miembros de la comunidad educativa.   
 2. Cada grupo debe responder durante la jornada escolar por el aseo del salón, sus corredores y las dependencias que usa.   
