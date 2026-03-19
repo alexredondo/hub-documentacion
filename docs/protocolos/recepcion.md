@@ -1,3 +1,9 @@
+---
+layout: default
+title: Protocolo de Recepción
+nav_order: 2
+---
+
 ### **Artículo 7.9.1. PROTOCOLO DE RECEPCIÓN DE ESTUDIANTES** {#artículo-7.9.1.-protocolo-de-recepción-de-estudiantes}
 
 **Objetivo:** Garantizar una transición segura, cálida y organizada del entorno familiar al escolar, velando por la integridad física y emocional del estudiante.
