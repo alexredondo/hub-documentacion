@@ -15,7 +15,7 @@ resumen: "Define la estructura, elección y funciones del Consejo de Padres como
 
 layout: default
 title: Guía Consejo de Padres
-nav_order: 2
+nav_order: 3
 ---
 
 # Guía Consejo de Padres
