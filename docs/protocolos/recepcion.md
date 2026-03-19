@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Protocolo de Recepción
-nav_order: 2
+title: Recepción de Estudiantes
+parent: Protocolos # Debe coincidir EXACTAMENTE con el 'title' del archivo padre
+nav_order: 1 # Orden dentro de la carpeta Protocolos
 ---
 
 ### **Artículo 7.9.1. PROTOCOLO DE RECEPCIÓN DE ESTUDIANTES** {#artículo-7.9.1.-protocolo-de-recepción-de-estudiantes}
