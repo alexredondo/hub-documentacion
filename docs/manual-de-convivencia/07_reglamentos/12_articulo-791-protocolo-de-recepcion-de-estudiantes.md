@@ -17,7 +17,7 @@ tags:
   - Debido Proceso
   - Comité de Convivencia
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
-version_github: "00f53c8"
+version_github: "a0149c9"
 ---
 ### **Artículo 7.9.1. PROTOCOLO DE RECEPCIÓN DE ESTUDIANTES** {#artículo-7.9.1.-protocolo-de-recepción-de-estudiantes}
 

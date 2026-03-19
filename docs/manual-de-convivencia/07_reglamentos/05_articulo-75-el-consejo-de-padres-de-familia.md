@@ -17,7 +17,7 @@ tags:
   - Debido Proceso
   - Comité de Convivencia
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
-version_github: "00f53c8"
+version_github: "a0149c9"
 ---
 ### **Artículo 7.5. EL CONSEJO DE PADRES DE FAMILIA.**  {#artículo-7.5.-el-consejo-de-padres-de-familia.}
 

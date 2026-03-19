@@ -17,7 +17,7 @@ tags:
   - Horizonte Institucional
   - Calidad Educativa
 resumen: "Documento maestro que establece la identidad, objetivos y estrategias de gestión institucional para el periodo 2026."
-version_github: "00f53c8"
+version_github: "a0149c9"
 ---
 ## 6.2 Participación de la familia en los procesos educativos {#6.2-participación-de-la-familia-en-los-procesos-educativos}
 

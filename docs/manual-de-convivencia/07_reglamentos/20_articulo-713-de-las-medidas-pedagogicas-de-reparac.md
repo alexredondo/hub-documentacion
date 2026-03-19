@@ -17,7 +17,7 @@ tags:
   - Debido Proceso
   - Comité de Convivencia
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
-version_github: "00f53c8"
+version_github: "a0149c9"
 ---
 ### **Artículo 7.13. DE LAS MEDIDAS PEDAGÓGICAS DE REPARACIÓN QUE CONTRIBUYEN A LA PROMOCIÓN DE LA CONVIVENCIA ESCOLAR**  {#artículo-7.13.-de-las-medidas-pedagógicas-de-reparación-que-contribuyen-a-la-promoción-de-la-convivencia-escolar}
 

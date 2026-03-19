@@ -17,7 +17,7 @@ tags:
   - Debido Proceso
   - Comité de Convivencia
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
-version_github: "00f53c8"
+version_github: "a0149c9"
 ---
 ### **Artículo 8.1. Estrategias pedagógicas para la socialización y aplicación de los contenidos del manual de convivencia** {#artículo-8.1.-estrategias-pedagógicas-para-la-socialización-y-aplicación-de-los-contenidos-del-manual-de-convivencia}
 
