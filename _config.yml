@@ -1,21 +1,37 @@
 title: Academia de las Américas
 description: "Centro Educativo Academia de las Américas - Hub de Documentación"
+
+# Configuración de URL fundamental para GitHub Pages en subcarpeta
+url: "https://alexredondo.github.io"
+baseurl: "/hub-documentacion"
+
+# Tema
 remote_theme: just-the-docs/just-the-docs
 
-# Color scheme y estilo
-color_scheme: "light" # "dark" existe también si lo deseas
+# Plugins necesarios para el tema remoto
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
 
-# Navigation
+# Color scheme y estilo
+color_scheme: "light"
+
+# Navigation settings
 search_enabled: true
 search_placeholder: "Buscar en los archivos..."
+nav_external_links:
+  - title: PEI
+    url: "/hub-documentacion/docs/pei/"
+  - title: MC
+    url: "/hub-documentacion/docs/manual-de-convivencia/"
 
-# Ayuda arriba a la derecha (Eliminamos Template Repository)
+# Ayuda arriba a la derecha (Botones navegación rápida)
 aux_links:
-  "Manual de Convivencia": "/manual-de-convivencia/"
-  "P.E.I.": "/pei/"
+  "Manual de Convivencia": "/docs/manual-de-convivencia/"
+  "P.E.I.": "/docs/pei/"
   "Telegram": "https://t.me/alexredondo"
 
-# Footer personalizado (Eliminamos los créditos por defecto)
+# Footer personalizado
 footer_content: '© 2024 [Alex Redondo](https://t.me/alexredondo) - Centro Educativo Academia de las Américas'
 last_edit_timestamp: true
 last_edit_label: "Última edición técnica"
