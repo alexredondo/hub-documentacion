@@ -14,7 +14,7 @@ tags:
 resumen: "Define la estructura, elección y funciones del Consejo de Padres como órgano consultivo y de participación institucional."
 layout: default
 title: Guía Consejo de Padres
-nav_order: 1
+nav_order: 2
 ---
 
 # Guía Consejo de Padres
