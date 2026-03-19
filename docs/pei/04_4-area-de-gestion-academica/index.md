@@ -17,5 +17,6 @@ tags:
   - Horizonte Institucional
   - Calidad Educativa
 resumen: "Documento maestro que establece la identidad, objetivos y estrategias de gestión institucional para el periodo 2026."
+version_github: "00f53c8"
 ---
 # 4\. ÁREA DE GESTIÓN ACADÉMICA {#4.-área-de-gestión-académica}

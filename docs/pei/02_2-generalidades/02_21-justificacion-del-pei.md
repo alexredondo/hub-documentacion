@@ -17,6 +17,7 @@ tags:
   - Horizonte Institucional
   - Calidad Educativa
 resumen: "Documento maestro que establece la identidad, objetivos y estrategias de gestión institucional para el periodo 2026."
+version_github: "00f53c8"
 ---
 ## 2.1 JUSTIFICACIÓN DEL PEI {#2.1-justificación-del-pei}
 

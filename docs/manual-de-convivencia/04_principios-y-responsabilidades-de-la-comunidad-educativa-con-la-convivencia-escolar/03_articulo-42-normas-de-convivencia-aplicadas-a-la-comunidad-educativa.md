@@ -17,7 +17,7 @@ tags:
   - Debido Proceso
   - Comité de Convivencia
 resumen: "Reglamento que define las normas de comportamiento, derechos y deberes de la comunidad educativa, así como la Ruta de Atención Integral."
-version_github: "fd6350e"
+version_github: "00f53c8"
 ---
 ### **Artículo 4.2. NORMAS DE CONVIVENCIA APLICADAS A LA COMUNIDAD EDUCATIVA** {#artículo-4.2.-normas-de-convivencia-aplicadas-a-la-comunidad-educativa}
 

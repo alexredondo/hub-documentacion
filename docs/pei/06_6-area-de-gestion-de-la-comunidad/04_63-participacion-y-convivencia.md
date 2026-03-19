@@ -17,6 +17,7 @@ tags:
   - Horizonte Institucional
   - Calidad Educativa
 resumen: "Documento maestro que establece la identidad, objetivos y estrategias de gestión institucional para el periodo 2026."
+version_github: "00f53c8"
 ---
 ## 6.3 Participación y convivencia {#6.3-participación-y-convivencia}
 
